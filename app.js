@@ -9,8 +9,3 @@ http.createServer((req, res)=>{
 
 
 }).listen(8000);
-
-
-// const query= process.argv.slice(2)
-
-// weather.get(query)
